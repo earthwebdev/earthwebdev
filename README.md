@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Prithvi Man Singh
+<hr>
 
 A passionate full stack web developer from Nepal
 
@@ -41,7 +42,11 @@ Connect with me:
 [4]: https://github.com/earthwebdev
 
 Languages and Tools:
-[![Languages and Tools:](https://skillicons.dev/icons?i=html,css,js,react,exprss,mongo,node,php,wordpress)](https://skillicons.dev)
+[![Languages and Tools:<br>](https://skillicons.dev/icons?i=html,css,js,react,express,mongo,nodejs,php,wordpress)](https://skillicons.dev)
+
+[![Earthwebdev’s github stats<br>](https://github-readme-stats.vercel.app/api?username=earthwebdev)](https://github.com/earthwebdev)
+
+[![Top Langs<br>](https://github-readme-stats.vercel.app/api/top-langs/?username=earthwebdev&layout=compact)](https://github.com/earthwebdev)
 
 <!--
 **earthwebdev/earthwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
