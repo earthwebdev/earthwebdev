@@ -27,10 +27,10 @@ Connect with me:
 
 <!-- icons with padding -->
 
-[1.1]: https://i.imgur.com/ykKU68j.png (instagram icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://i.imgur.com/hJoPDLZ.png (linkedin icon with padding)
-[4.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: https://img.icons8.com/?size=1x&id=32323&format=png (instagram icon with padding)
+[2.1]: https://img.icons8.com/?size=1x&id=118497&format=png (facebook icon with padding)
+[3.1]: https://img.icons8.com/?size=1x&id=13930&format=png (linkedin icon with padding)
+[4.1]: https://img.icons8.com/?size=1x&id=63777&format=png (github icon with padding)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
