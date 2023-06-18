@@ -29,7 +29,7 @@ Connect with me:
 
 [1.1]: https://i.imgur.com/ykKU68j.png (instagram icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://imgur.com/gallery/CzgyMf8 (linkedin icon with padding)
+[3.1]: https://i.imgur.com/hJoPDLZ.png (linkedin icon with padding)
 [4.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- links to your social media accounts -->
