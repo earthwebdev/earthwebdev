@@ -39,6 +39,10 @@ Connect with me:
 [2]: https://www.facebook.com/prithvi.singh.735
 [3]: https://np.linkedin.com/in/prithvi-singh-83782768
 [4]: https://github.com/earthwebdev
+
+Languages and Tools:
+[![Languages and Tools:](https://skillicons.dev/icons?i=html,css,js,react,exprss,mongo,node,php,wordpress)](https://skillicons.dev)
+
 <!--
 **earthwebdev/earthwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
